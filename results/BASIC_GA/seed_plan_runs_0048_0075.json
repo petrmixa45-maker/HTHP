@@ -1,0 +1,254 @@
+[
+  {
+    "run_id": 48,
+    "master_seed": 123456781,
+    "derived_seed": 3504132762,
+    "spawn_key": [
+      47
+    ],
+    "entropy": 123456781
+  },
+  {
+    "run_id": 49,
+    "master_seed": 123456781,
+    "derived_seed": 481787776,
+    "spawn_key": [
+      48
+    ],
+    "entropy": 123456781
+  },
+  {
+    "run_id": 50,
+    "master_seed": 123456781,
+    "derived_seed": 1546979217,
+    "spawn_key": [
+      49
+    ],
+    "entropy": 123456781
+  },
+  {
+    "run_id": 51,
+    "master_seed": 123456781,
+    "derived_seed": 2268958878,
+    "spawn_key": [
+      50
+    ],
+    "entropy": 123456781
+  },
+  {
+    "run_id": 52,
+    "master_seed": 123456781,
+    "derived_seed": 1799477615,
+    "spawn_key": [
+      51
+    ],
+    "entropy": 123456781
+  },
+  {
+    "run_id": 53,
+    "master_seed": 123456781,
+    "derived_seed": 2857792107,
+    "spawn_key": [
+      52
+    ],
+    "entropy": 123456781
+  },
+  {
+    "run_id": 54,
+    "master_seed": 123456781,
+    "derived_seed": 1358415299,
+    "spawn_key": [
+      53
+    ],
+    "entropy": 123456781
+  },
+  {
+    "run_id": 55,
+    "master_seed": 123456781,
+    "derived_seed": 261176942,
+    "spawn_key": [
+      54
+    ],
+    "entropy": 123456781
+  },
+  {
+    "run_id": 56,
+    "master_seed": 123456781,
+    "derived_seed": 389313036,
+    "spawn_key": [
+      55
+    ],
+    "entropy": 123456781
+  },
+  {
+    "run_id": 57,
+    "master_seed": 123456781,
+    "derived_seed": 2836615041,
+    "spawn_key": [
+      56
+    ],
+    "entropy": 123456781
+  },
+  {
+    "run_id": 58,
+    "master_seed": 123456781,
+    "derived_seed": 3193347767,
+    "spawn_key": [
+      57
+    ],
+    "entropy": 123456781
+  },
+  {
+    "run_id": 59,
+    "master_seed": 123456781,
+    "derived_seed": 1101656332,
+    "spawn_key": [
+      58
+    ],
+    "entropy": 123456781
+  },
+  {
+    "run_id": 60,
+    "master_seed": 123456781,
+    "derived_seed": 3698311319,
+    "spawn_key": [
+      59
+    ],
+    "entropy": 123456781
+  },
+  {
+    "run_id": 61,
+    "master_seed": 123456781,
+    "derived_seed": 706767762,
+    "spawn_key": [
+      60
+    ],
+    "entropy": 123456781
+  },
+  {
+    "run_id": 62,
+    "master_seed": 123456781,
+    "derived_seed": 2952854422,
+    "spawn_key": [
+      61
+    ],
+    "entropy": 123456781
+  },
+  {
+    "run_id": 63,
+    "master_seed": 123456781,
+    "derived_seed": 3948041608,
+    "spawn_key": [
+      62
+    ],
+    "entropy": 123456781
+  },
+  {
+    "run_id": 64,
+    "master_seed": 123456781,
+    "derived_seed": 3877771473,
+    "spawn_key": [
+      63
+    ],
+    "entropy": 123456781
+  },
+  {
+    "run_id": 65,
+    "master_seed": 123456781,
+    "derived_seed": 3491018886,
+    "spawn_key": [
+      64
+    ],
+    "entropy": 123456781
+  },
+  {
+    "run_id": 66,
+    "master_seed": 123456781,
+    "derived_seed": 3008149127,
+    "spawn_key": [
+      65
+    ],
+    "entropy": 123456781
+  },
+  {
+    "run_id": 67,
+    "master_seed": 123456781,
+    "derived_seed": 610316082,
+    "spawn_key": [
+      66
+    ],
+    "entropy": 123456781
+  },
+  {
+    "run_id": 68,
+    "master_seed": 123456781,
+    "derived_seed": 4022768207,
+    "spawn_key": [
+      67
+    ],
+    "entropy": 123456781
+  },
+  {
+    "run_id": 69,
+    "master_seed": 123456781,
+    "derived_seed": 3016280584,
+    "spawn_key": [
+      68
+    ],
+    "entropy": 123456781
+  },
+  {
+    "run_id": 70,
+    "master_seed": 123456781,
+    "derived_seed": 1934615576,
+    "spawn_key": [
+      69
+    ],
+    "entropy": 123456781
+  },
+  {
+    "run_id": 71,
+    "master_seed": 123456781,
+    "derived_seed": 1442762148,
+    "spawn_key": [
+      70
+    ],
+    "entropy": 123456781
+  },
+  {
+    "run_id": 72,
+    "master_seed": 123456781,
+    "derived_seed": 279105037,
+    "spawn_key": [
+      71
+    ],
+    "entropy": 123456781
+  },
+  {
+    "run_id": 73,
+    "master_seed": 123456781,
+    "derived_seed": 2111711200,
+    "spawn_key": [
+      72
+    ],
+    "entropy": 123456781
+  },
+  {
+    "run_id": 74,
+    "master_seed": 123456781,
+    "derived_seed": 503884183,
+    "spawn_key": [
+      73
+    ],
+    "entropy": 123456781
+  },
+  {
+    "run_id": 75,
+    "master_seed": 123456781,
+    "derived_seed": 831591334,
+    "spawn_key": [
+      74
+    ],
+    "entropy": 123456781
+  }
+]
