@@ -1,0 +1,50 @@
+Profiling summary for IHX_multiprocess.py
+PROFILE_ENABLED = True
+
+Counts:
+  mixtures processed: 715
+  worker points total: 1266265
+  worker points valid: 1266151
+  worker errors: 114
+  writer start items: 715
+  writer slice items: 15015
+  writer error items: 715
+
+Main process time [s]:
+  total: 392.529316
+  waiting for worker results: 383.088680
+  queue.put to writer: 7.456425
+  error aggregation: 0.000075
+
+Worker aggregated time [s]:
+  total: 5769.505891
+  AbstractState init: 59.264881
+  set_mole_fractions: 5.241438
+  state1 QT: 224.543130
+  state1 PT: 18.213477
+  state1ihx PT: 17.223065
+  state3 QT: 289.281018
+  state3 PT: 28.108851
+  state3ihx HP: 1468.091859
+  state2s PS: 456.359139
+  state2 HP: 469.967374
+  state4 HP: 2695.061663
+  property reads: 6.722988
+  cycle calc: 1.328461
+  result store: 17.313378
+
+Writer process time [s]:
+  total: 388.777693
+  start-group writes: 0.494503
+  slice writes: 41.711192
+  error writes: 0.345487
+
+Relative shares:
+  main queue.put / main total: 1.90 %
+  main wait / main total: 97.59 %
+  writer slice / writer total: 10.73 %
+  state2s PS / worker total: 7.91 %
+  state2 HP / worker total: 8.15 %
+  state4 HP / worker total: 46.71 %
+  state1ihx PT / worker total: 0.30 %
+  state3ihx HP / worker total: 25.45 %
